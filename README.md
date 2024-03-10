@@ -13,7 +13,6 @@
 - **Dataset:** The dataset consists of 2357 images of malignant and benign oncological diseases, sourced from the International Skin Imaging Collaboration (ISIC).
 
 ## Conclusions
-- The CNN model achieved an accuracy of X% on the test set after 20 epochs.
 - Data augmentation was used to address overfitting/underfitting, improving the model's generalization.
 - Rectifying class imbalances in the training dataset using the Augmentor library improved the model's performance.
 
